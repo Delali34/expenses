@@ -184,7 +184,7 @@ select{
  }
  
  
- /* @media (max-width: 960px){
+ @media (max-width: 960px){
     .container{
         flex-direction: column;
     }
@@ -192,20 +192,3 @@ select{
         margin-left: 20%;
     }
  }
- @media (max-width: 770px){
-    .container{
-        flex-direction: column;
-    }
-    .insider{
-        margin-left: 30%;
-    }
- }
- @media (max-width: 460px){
-    .container{
-        flex-direction: column;
-
-    }
-    .insider{
-        margin-left: 50%;
-    }
- } */
