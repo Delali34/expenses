@@ -17,9 +17,9 @@ body{
 .insider{
     background-color: #7F1AE2;
     width: 388px;
-    height: 766px;
+    height: 750px;
     border-radius: 10px;
-    color: black;
+    color: white;
     
     
 }
@@ -153,6 +153,7 @@ select{
 .output {
     background-color: #7F1AE2;
     width: 712px;
+    height: 60px;
     
  }
  .cardAdd{
@@ -221,6 +222,7 @@ select{
     .container{
         display: block;
         justify-content: center;
+        
     }
     
  }
@@ -229,27 +231,57 @@ select{
         width: 100%;
         display: block;
         justify-content: center;
+        margin-left: 40px;
         
     }
     .output {
         background-color: #7F1AE2;
         width: 350px;
-        font-size: 8px;
+        font-size: 9px;
      }
      .output-container {
         margin-top: 20px;
           
           
       }
+ }
+      .icon{
+        padding: 5px;
+        border: none;
+        outline: none;
+        width: 25px;
+        height: 20px;
+        text-align: center;
+        font-size: 12px;
+        
+        
+     }
+     .icons{
+        padding: 5px;
+        border: none;
+        outline: none;
+        width: 25px;
+        height: 20px;
+        text-align: center;
+        font-size: 12px;
+     }
+     .button-div{
+        margin-top: 10px;
+        
+     }
+     .button-div{
+       margin-left: 10px;
+     }
+     
     
    
- }
+ 
  @media (max-width: 400px){
     .container{
         width: 100%;
         display: block;
         justify-content: center;
-        
+        margin-left: 30px;
     }
     .output {
         background-color: #7F1AE2;
@@ -277,7 +309,7 @@ select{
         width: 100%;
         display: block;
         justify-content: center;
-        
+        margin-left: 25px;
     }
     .output {
         background-color: #7F1AE2;
