@@ -192,3 +192,20 @@ select{
         margin-left: 20%;
     }
  }
+ @media (max-width: 770px){
+    .container{
+        flex-direction: column;
+    }
+    .insider{
+        margin-left: 30%;
+    }
+ }
+ @media (max-width: 460px){
+    .container{
+        flex-direction: column;
+
+    }
+    .insider{
+        margin-left: 10%;
+    }
+ }
