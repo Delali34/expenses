@@ -30,9 +30,9 @@ const handleSubmit = (event) => {
                 <div className='tracker'><h1>E-TRACKER</h1></div>
              
             
-
+                <label htmlFor="Note" className='services'  >Date</label>
                <div className="input-group ">
-                 
+             
                <input className='input date' type="date" name="title" id="title" value={date} onChange={(e) =>{
                         setDate(e.target.value);
                     }}/>
