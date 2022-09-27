@@ -56,10 +56,11 @@ const handleSubmit = (event) => {
                </div>
                <label htmlFor="Note" className='services' >Category</label>
                <div className="input-group">
-               <select className='input category' name="title" id="title"  value={select} onChange={(e) =>{
+               <select className='input category' name="title" id="title" placeholder='Select'  value={select} onChange={(e) =>{
                         setCategory(e.target.value);
                     }} 
                     >
+                        <option value="" disabled selected>Select Category</option>
                          <option value="Food">Food</option>
                         <option value="Drink">Drink</option>
                         <option value="Accommodation">Accommodation</option>

@@ -57,6 +57,7 @@ const EditExpenses = (props) => {
                <select className='input category' name="title" id="title"  value={select} onChange={(e) =>{
                         setCategory(e.target.value);
                     }}>
+                         <option value="" disabled selected>Select Category</option>
                          <option value="Food">Food</option>
                         <option value="Drink">Drink</option>
                         <option value="Accommodation">Accommodation</option>
