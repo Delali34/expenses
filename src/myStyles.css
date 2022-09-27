@@ -19,6 +19,7 @@ body{
     width: 388px;
     height: 766px;
     border-radius: 10px;
+    color: black;
     
     
 }
@@ -162,7 +163,8 @@ select{
     font-size: 20px;
  }
  .button-div{
-    margin-top: 10px;
+    margin-top: 40px;
+    
  }
  
  .button-div button {
@@ -175,16 +177,22 @@ select{
 }
    
   .icon{
-    padding: 10px;
+    padding: 5px;
     border: none;
     outline: none;
+    width: 28px;
+    height: 30px;
+    text-align: center;
     
     
  }
  .icons{
-    padding: 10px;
+    padding: 5px;
     border: none;
     outline: none;
+    width: 25px;
+    height: 30px;
+    text-align: center;
  }
  
  
@@ -226,7 +234,7 @@ select{
     .output {
         background-color: #7F1AE2;
         width: 350px;
-        font-size: 10px;
+        font-size: 8px;
      }
      .output-container {
         margin-top: 20px;
@@ -246,13 +254,22 @@ select{
     .output {
         background-color: #7F1AE2;
         width: 350px;
-        font-size: 9px;
+        font-size: 6px;
      }
      .output-container {
         margin-top: 20px;
           
           
       }
+      .button-div button {
+        margin: 0 2px;
+        padding: 4px 5px;
+        border-radius: 50%;
+        background-color: #fff;
+        border: none;
+        outline: none;
+    }
+      
    
  }
  @media (max-width: 375px){
@@ -265,7 +282,7 @@ select{
     .output {
         background-color: #7F1AE2;
         width: 350px;
-        font-size: 9px;
+        font-size: 6px;
      }
      .output-container {
         margin-top: 20px;
