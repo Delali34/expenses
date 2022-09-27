@@ -226,7 +226,7 @@ select{
     .output {
         background-color: #7F1AE2;
         width: 350px;
-        font-size: 12px;
+        font-size: 10px;
      }
      .output-container {
         margin-top: 20px;
@@ -246,7 +246,7 @@ select{
     .output {
         background-color: #7F1AE2;
         width: 350px;
-        font-size: 10px;
+        font-size: 9px;
      }
      .output-container {
         margin-top: 20px;
@@ -265,7 +265,7 @@ select{
     .output {
         background-color: #7F1AE2;
         width: 350px;
-        font-size: 12px;
+        font-size: 9px;
      }
      .output-container {
         margin-top: 20px;
