@@ -267,13 +267,13 @@ select{
         width: 100%;
         display: block;
         justify-content: center;
-        margin-left: 40px;
+        margin-left: 70px;
         
     }
     .output {
         background-color: #1a77e2;
         width: 350px;
-        font-size: 10px;
+        font-size: 8px;
      }
      .output-container {
         margin-top: 10px;
@@ -284,8 +284,8 @@ select{
         padding: 5px;
         border: none;
         outline: none;
-        width: 25px;
-        height: 20px;
+        width: 20px;
+        height: 15px;
         text-align: center;
         font-size: 12px;
         
@@ -295,8 +295,8 @@ select{
         padding: 5px;
         border: none;
         outline: none;
-        width: 25px;
-        height: 20px;
+        width: 20px;
+        height: 15px;
         text-align: center;
         font-size: 12px;
      }
@@ -348,7 +348,26 @@ select{
         font-size: 10px;
         margin-left: 42px;
     }
-      
+    .icon{
+        padding: 5px;
+        border: none;
+        outline: none;
+        width: 20px;
+        height: 15px;
+        text-align: center;
+        font-size: 12px;
+        
+        
+     }
+     .icons{
+        padding: 5px;
+        border: none;
+        outline: none;
+        width: 20px;
+        height: 15px;
+        text-align: center;
+        font-size: 12px;
+     }
    
  }
  @media (max-width: 375px){
