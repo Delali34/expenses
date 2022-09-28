@@ -15,7 +15,7 @@ body{
         
 }
 .insider{
-    background-color: #7F1AE2;
+    background-color: #6320EE;
     width: 388px;
     height: 750px;
     border-radius: 10px;
@@ -35,7 +35,7 @@ div  {
     background-color: #051014;
     height: 82px;
     margin-top: -30px;
-    border:1px solid #7F1AE2;
+    border:1px solid #6320EE;
     border-top-left-radius:10px ;
     border-top-right-radius:10px ;
     margin-bottom: 57px;
@@ -108,6 +108,7 @@ input[type='date']{
     display: flex;
     justify-content: center;
     align-items: center;
+    border: none;
 }
 .save button{
     padding: 10px 25px;
@@ -118,6 +119,7 @@ input[type='date']{
     width: 131px;
     height: 64px;
     font-size: 20px;
+    border: none;
 }
 
 .services{
@@ -210,12 +212,14 @@ select{
         background-color: #7F1AE2;
         width: 500px;
         font-size: 12px;
+
      }
 
     .insider{
         width: 350px;
         height: 700px;
     }
+    
    
  }
  @media (max-width: 770px){
@@ -223,6 +227,38 @@ select{
         display: block;
         justify-content: center;
         
+    }
+    .icon{
+        padding: 5px;
+        border: none;
+        outline: none;
+        width: 25px;
+        height: 20px;
+        text-align: center;
+        font-size: 12px;
+        
+        
+     }
+     .icons{
+        padding: 5px;
+        border: none;
+        outline: none;
+        width: 25px;
+        height: 20px;
+        text-align: center;
+        font-size: 12px;
+     }
+     .button-div{
+        margin-top: 10px;
+        
+     }
+     .button-div{
+       margin-left: 10px;
+     }
+     .services{
+        text-align: start;
+        font-size: 20px;
+        margin-left: 42px;
     }
     
  }
@@ -244,7 +280,6 @@ select{
           
           
       }
- }
       .icon{
         padding: 5px;
         border: none;
@@ -272,6 +307,14 @@ select{
      .button-div{
        margin-left: 10px;
      }
+     .services{
+        text-align: start;
+        font-size: 20px;
+        margin-left: 42px;
+    }
+    
+ }
+     
      
     
    
@@ -300,6 +343,11 @@ select{
         border: none;
         outline: none;
     }
+    .services{
+        text-align: start;
+        font-size: 20px;
+        margin-left: 42px;
+    }
       
    
  }
@@ -319,5 +367,10 @@ select{
           
           
       }
+      .services{
+        text-align: start;
+        font-size: 20px;
+        margin-left: 42px;
+    }
    
  }
