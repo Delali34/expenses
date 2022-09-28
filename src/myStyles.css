@@ -209,7 +209,7 @@ select{
         
     }
     .output {
-        background-color: #7F1AE2;
+        background-color: #1a77e2;
         width: 500px;
         font-size: 12px;
 
@@ -271,12 +271,12 @@ select{
         
     }
     .output {
-        background-color: #7F1AE2;
+        background-color: #1a77e2;
         width: 350px;
-        font-size: 9px;
+        font-size: 10px;
      }
      .output-container {
-        margin-top: 20px;
+        margin-top: 10px;
           
           
       }
@@ -328,10 +328,10 @@ select{
     .output {
         background-color: #1a77e2;
         width: 350px;
-        font-size: 6px;
+        font-size: 8px;
      }
      .output-container {
-        margin-top: 20px;
+        margin-top: 10px;
           
           
       }
@@ -345,7 +345,7 @@ select{
     }
     .services{
         text-align: start;
-        font-size: 20px;
+        font-size: 10px;
         margin-left: 42px;
     }
       
@@ -360,10 +360,10 @@ select{
     .output {
         background-color: #7F1AE2;
         width: 350px;
-        font-size: 6px;
+        font-size: 8px;
      }
      .output-container {
-        margin-top: 20px;
+        margin-top: 10px;
           
           
       }
