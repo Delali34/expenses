@@ -15,7 +15,7 @@ body{
         
 }
 .insider{
-    background-color: #6320EE;
+    background-color: #0b75ee;
     width: 388px;
     height: 750px;
     border-radius: 10px;
@@ -35,7 +35,7 @@ div  {
     background-color: #051014;
     height: 82px;
     margin-top: -30px;
-    border:1px solid #6320EE;
+    border:1px solid #0b75ee;
     border-top-left-radius:10px ;
     border-top-right-radius:10px ;
     margin-bottom: 57px;
@@ -153,9 +153,9 @@ select{
     
 }
 .output {
-    background-color: #7F1AE2;
+    background-color: #0b75ee;
     width: 712px;
-    height: 80px;
+    height: 70px;
     
  }
  .cardAdd{
@@ -166,7 +166,7 @@ select{
     font-size: 20px;
  }
  .button-div{
-    margin-top: 40px;
+    margin-top: 15px;
     
  }
  
@@ -326,7 +326,7 @@ select{
         margin-left: 30px;
     }
     .output {
-        background-color: #7F1AE2;
+        background-color: #1a77e2;
         width: 350px;
         font-size: 6px;
      }
