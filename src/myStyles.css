@@ -9,6 +9,9 @@ body{
     display: flex;
     justify-content: center;
     gap: 5%;
+    margin-bottom: 15px;
+    max-height: 750px;
+    height: 100%;
     
         
         
@@ -149,6 +152,9 @@ select{
 }
 .output-container {
   margin-top: 70px;
+  
+  
+  
     
     
 }
@@ -156,6 +162,7 @@ select{
     background-color: #0b75ee;
     width: 712px;
     height: 70px;
+    
     
  }
  .cardAdd{
@@ -166,7 +173,7 @@ select{
     font-size: 20px;
  }
  .button-div{
-    margin-top: 15px;
+    margin-top: 10px;
     
  }
  
@@ -249,7 +256,7 @@ select{
         font-size: 12px;
      }
      .button-div{
-        margin-top: 10px;
+        margin-top: 0px;
         
      }
      .button-div{
@@ -301,7 +308,7 @@ select{
         font-size: 12px;
      }
      .button-div{
-        margin-top: 10px;
+        margin-top: 0px;
         
      }
      .button-div{
